@@ -8,5 +8,5 @@ Die **🛠 [Fahrrad-Selbsthilfe-Werkstatt]({filename}/pages/FSW.md)** ist unter 
 Wenn Sie sich für eine Aufnahme in unsere **🚲 [Touren-Liste]({filename}/pages/Mittwochstour.md)** interessieren, schreiben Sie bitte an ✉ [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
 
 **Geldspenden** können unter
-{! content\pages\Konto.md [ln:4-] !}
+{! pelican-md-soures\pages\Konto.md [ln:4-] !}
 überwiesen werden.

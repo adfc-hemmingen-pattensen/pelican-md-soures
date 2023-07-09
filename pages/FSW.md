@@ -21,4 +21,4 @@ Das Team und der ADFC Hemmingen Pattensen wünschen allen Radelnden eine gesunde
 
 ### Konto
 
-{! content\pages\Konto.md [ln:4-] !}
+{! pelican-md-soures\pages\Konto.md [ln:4-] !}

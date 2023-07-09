@@ -37,7 +37,7 @@ Mitglied werden kann man [hier](https://www.adfc.de/sei-dabei/mitglied-werden)
 
 ### Konto
 
-{! content\pages\Konto.md [ln:4-] !}
+{! pelican-md-soures\pages\Konto.md [ln:4-] !}
 
 Mit fahrradfreundlichen Grüßen, die ADFC Ortsgruppe Hemmingen/Pattensen.
 
