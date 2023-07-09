@@ -3,7 +3,7 @@ date: 2022-07-03
 
 Quelle: Presseportal Polizeidirektion Hannover <https://www.presseportal.de/blaulicht/pm/66841/5262554>
 
-![Merkhilfe](images/hg_1540571954_1938.png)
+![Merkhilfe]({static}/images/hg_1540571954_1938.png)
 
 In der Nacht zu Freitag, 01.07.2022, ist ein 59-jähriger Radfahrer an den Folgen seiner Kollision mit einer Pkw-Tür gestorben. Ein Auto-Fahrer parkte kurz zuvor am Fahrbahnrand der Calenberger Straße und öffnete seine Tür, **ohne auf den rückwärtigen Radverkehr zu achten**. Ein sogenannter "Doring Unfall". Der Radfahrer konnte nicht mehr ausweichen und prallte gegen die offene Fahrertür.
 

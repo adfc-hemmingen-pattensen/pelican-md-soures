@@ -2,7 +2,7 @@ title: Die ADFC Fahrrad-Selbsthilfe-Werkstatt bedankt sich herzlich für die hoh
 date: 2022-04-30
 tags: Spenden
 
-![Spendenraeder](images/Spendenraeder.jpg)
+![Spendenraeder]({static}/images/Spendenraeder.jpg)
 
 Nach einem Aufruf in der Presse erfuhr das Team der [Fahrrad-Selbsthilfe-Werkstatt]({filename}/pages/FSW.md) eine unglaublich hohe Resonanz aus der Bevölkerung. Innerhalb von zwei Wochen wurden bereits jetzt über 40 Spendenräder abgeholt oder in der Heinrich-Hertz-Straße 23 während der Werkstatt-Öffnung abgegeben. Dabei kamen die Spendenden nicht nur aus Hemmingen, sondern auch aus Pattensen, Laatzen bis hin nach Springe-Eldagsen. *Hierfür ein herzliches Dankeschön!*
 
