@@ -1,4 +1,4 @@
-title: Abendtour #5/23
+title: Abendtour #9/23
 date: 2023-07-05
 authors: Günther Kleinod
 tags: Touren
