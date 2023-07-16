@@ -3,8 +3,7 @@ date: 2023-07-12
 authors: Günther Kleinod 
 tags: Touren 
 
-Die Fahrt ging mit 13 Radlern durch die Leinemasch, an den Koldinger Seen vorbei nach Ruthe. Weiter ging es nach Sarstedt, mit Rast an der Eisdiele. Anschliessend fahren wir an der Innerste entlang nach Ruthe und weiter nach Koldingen. Über Reden und Harkenbleck erreichten wir Hemmingen nach ca. 3 Std und 
-34 km. 
+Die Fahrt ging mit 13 Radlern durch die Leinemasch, an den Koldinger Seen vorbei nach Ruthe. Weiter ging es, an der Leine entlang bis Schliekum, über die Leinebrücke und an Feldern und Wiesen vorbei nach Sarstedt, mit Rast an der Eisdiele. Anschliessend fahren wir an der Innerste entlang nach Ruthe und weiter nach Koldingen. Durch die Leinemasch ging es zurück und wir erreichten Hemmingen nach ca. 3 Std und ca. 34 km. 
 
 Tourenziel       | Ruthe und Sarstedt
 ---------------: | ----------------------- 
