@@ -2,15 +2,17 @@
 
 title: Tagestour #11/23
 date: 2023-07-19 
-authors: Günther Kleinod 
+authors: Helmut Krause 
 tags: Touren 
 
-Die Fahrt ging mit 8 Radlern durch Arnum, Harkenbleck nach Koldingen und an den Koldinger Seen vorbei nach Ruthe. Weiter ging es nach Sarstedt, am Bruchgraben vorbei Richtung Ahrbergen. Wir fuhren am Kaliberg vorbei nach Giesen und weiter zum Osterwald, ein ehemaliges Übungsgelaände der Bundeswwehr. Nach einer schönen Abfahrt kamen wir nach Himmelsthür und es ging in den Hildesheimer Wald auf den Panoramaweg, mit einer sehr guten Fernsicht über Hildesheim und das Harzer Vorland. Anschließend ging es über Neudorf wiede ins Tal und wir fuhren auf einer alten Bahntrasse zum Marienburger Dömänen-Café. Nach einer verdienten Pause ging es an der Innerste wieder zurück nach Hildesheim zum Hohnensee. Über Giesen, Giften mit den Giftener Seen, Schliekum, Ruthe, Koldingen ging es wieder zurück und wir erreichten Hemmingennach ca. 80 km und 7 Std.
+Unsere Tagestour über Land startete am Mittwoch den 19.Juli 2023 bei guten Wetter in Hemmingen und Koldingen, wo wir die Pattenser trafen. Wir fuhren am Koldinger See vorbei und weiter durch die Leinemasch nach Ruthe. Dort radelten wir auf schönen Wegen mit alten Baumbestand direkt an der Innerste. In Sarstedt angekommen, machten wir auf einen schönen Rastplatz, direkt am Fluss, einen kurzen Getränkestopp.
+Dann ging es weiter entlang der Innerste, an der Malzfeldt-Mühle und an dem dazugehörigen Wehr vorbei bis zur Kalihalde Giesen. Hinter Giesen radelten wir ein Stück auf der ehemaligen Panzerstrassse der Bundeswehr und verließen diese um noch ein Stück hinauf in das NSG Dreisch-Osterwald zu fahren. Dort hatten wir grandiose Ausblicke bis nach Hannover und sogar bis zum Brocken. Dies war auch die erste Bergetappe, die E-Bike-Fahrer hatten es gut! Danach ging es steil bergab nach Himmelsthür. Dort querten wir die Bahnlinie Hameln-Hildesheim und fuhren durch eine schwer zu findene Tür in der Lärmschutzwand (kurios) steil hinauf zum Panoramaweg, die zweite Bergetappe. Oben wurden wir auf dem ca.3 km langen Panaoramaweg mit tollen Ausblicken auf Hildesheim und die umliegenden Berge belohnt, und sogar den Brocken konnten wir sehen. Nach kurzem Getränkestopp ging es wieder steil abwärts nach Neuhof und zum Rest.Heidekrug. Kurz danach radelten wir auf der alten Bahntrasse Diekholzen-Marienburg, und erreichten unser Ziel, die Domäne Marienburg und das beliebten Domänencafe. Wir genossen die leckeren Torten auf der schönen Aussenterrasse. Gut gestärkt ging es dann immer entlang der Innerste nach Hildesheim zum Hohnsensee und weiter am Fluss bis Giesen. Danach radelten wir auf asphaltierten Wirtschaftswegen nach Ruthe und Koldingen. Das Ziel Hemmingen erreichten wir nach ca. 80 km gegen 18 Uhr. Es war eine sehr sportliche Tour mit etwa 420 Höhenmetern. Die meisten Mitradler hatten E-Bikes und meisterten die Bergetappen ganz gut. 
+
 Tourenziel       | Koldingen, Hildesheim, Marienburg
 ---------------: | ----------------------- 
 Datum            | 2022-07-19-Mi
 Tourenart        | Tagestour
-Tourenleiter     | Helmut, Günther
+Tourenleiter     | Helmut Krause, Günther 
 Start            | Hemmingen Rathaus 10:00
 Start            | Koldingen Rathaus 10:30
 Dauer [Stunden]  | ca. 7 
