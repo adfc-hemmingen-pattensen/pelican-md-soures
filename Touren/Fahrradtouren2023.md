@@ -29,6 +29,10 @@ section Abendtouren
 2. Benthe, Harenberg, Stichkanal, Ihme: 2023-05-03, 1d
 3. Leinemasch, Ruthe: 2023-05-10, 1d
 4. Julius-Trip-Ring: 2023-05-24, 1d
+9. Benthe, Ditterke, Ronnenberg: 2023-07-05, 1d
+10. Sarstedt: 2023-07-12, 1d
+11. Hildesheim, Marienburg (Tagestour): 2023-07-19, 1d
+12. Wennigsen, Ihme-Ursprung, Lüdersen: 2023-08-16, 1d
 
 ```
 
