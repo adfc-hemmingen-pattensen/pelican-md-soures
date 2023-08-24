@@ -17,12 +17,16 @@ todayMarker stroke-width:0px
 section 2023
 2023: done, 2023-01-01, 2023-12-31
 
-section Stadtradeln (geplant)  
+section Stadtradeln  
 Stadtradeln 2023:          action, 2023-06-04, 2023-06-24
 Auftaktstour nach Hannover:   2023-06-04, 1d
 Sonntags Radtour 4-Seen-Radtour:   2023-06-11, 1d
 Stadtradeltour in der Umgebung:     2023-06-14, 1d
 Stadtradeltour:     2023-06-21, 1d
+
+section Tagestouren
+11. Hildesheim, Marienburg (Tagestour): 2023-07-19, 1d
+13. Garbsen Blauer See, Marienwerder: 2023-08-23, 1d
 
 section Abendtouren
 1. Anderter Schleuse, Kronsberg:      2023-04-19, 1d
@@ -31,7 +35,6 @@ section Abendtouren
 4. Julius-Trip-Ring: 2023-05-24, 1d
 9. Benthe, Ditterke, Ronnenberg: 2023-07-05, 1d
 10. Sarstedt: 2023-07-12, 1d
-11. Hildesheim, Marienburg (Tagestour): 2023-07-19, 1d
 12. Wennigsen, Ihme-Ursprung, Lüdersen: 2023-08-16, 1d
 
 ```
