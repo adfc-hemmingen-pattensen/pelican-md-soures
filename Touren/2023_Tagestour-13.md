@@ -8,7 +8,7 @@ Die 13. Halbtages-Radtour startete am Mittwoch 23. Mai mit 20 Radlern bei sehr s
 Nach einem kurzen Abstecher zum Leinebogen erreichten wir wieder den Kanal, fuhren immer am Wasser entlang und folgten später der Ihme. Nach ca. 5 Stunden und 63 km kamen wir gut gelaunt in Hemmingen an.
 
 
-Tourenziel       | Ihme, Stichkanal, Harenberg, Verber Holz
+Tourenziel       | Garbsen Blauer See, Marienwerder
 ---------------: | ----------------------- 
 Datum            | 2023-08-23-Mi
 Tourenrart       | Feierabend
