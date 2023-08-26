@@ -1,5 +1,3 @@
-## 2023_Tagestour-11
-
 title: Tagestour #11/23
 date: 2023-07-19 
 authors: Helmut Krause 
