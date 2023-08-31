@@ -36,6 +36,7 @@ section Abendtouren
 9. Benthe, Ditterke, Ronnenberg: 2023-07-05, 1d
 10. Sarstedt: 2023-07-12, 1d
 12. Wennigsen, Ihme-Ursprung, Lüdersen: 2023-08-16, 1d
+14. Eilenriede, Mittellandkanal, H-Löns-Park: 2023-08-30, 1d
 
 ```
 
