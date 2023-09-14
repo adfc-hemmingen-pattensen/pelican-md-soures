@@ -3,7 +3,7 @@ date: 2023-08-30
 authors: Günther Kleinod 
 tags: Touren  
 
-Die 14. Feierabend-Radtour startete am Mittwoch den 30.08. bei gutem Wetter, aber drohendem Regen, durch das Ricklinger Holz, am Maschsee vorbei in die Eilenriede. Weiter ging es nach Kleefeld, am Zoo vorbei und Buchholz. Am Spannhagengarten erreichten wir den Mittellandkanal und fuhren daran entlang entlang kamen wir nach Misburg und Anderten. Dort zweigten wir ab und fuhren zum Hermann-Löns-Park. Am Annateich machten wir eine kurze Rast und fuhren weiter an der "Alten Mühle", einer Bockwindmühle. Zurück ging es wieder am Maschsee und den Hemminger Teichen vorbei. Nach ca. 3 Std. und 34 km erreichten wir wieder Hemmingen.
+Die 14. Feierabend-Radtour startete am Mittwoch den 30.08. bei gutem Wetter, aber drohendem Regen, durch das Ricklinger Holz, am Maschsee vorbei in die Eilenriede. Weiter ging es nach Kleefeld, am Zoo vorbei und Buchholz. Am Spannhagengarten erreichten wir den Mittellandkanal und fuhren daran entlang kamen wir nach Misburg und Anderten. Dort zweigten wir ab und fuhren zum Hermann-Löns-Park. Am Annateich machten wir eine kurze Rast und fuhren weiter an der "Alten Mühle", einer Bockwindmühle. Zurück ging es wieder am Maschsee und den Hemminger Teichen vorbei. Nach ca. 3 Std. und 34 km erreichten wir wieder Hemmingen.
 Tourenziel       | Eilenriede, Mittellandkanal, H-Löns-Park
 ---------------: | ----------------------- 
 Datum            | 2023-08-30-Mi
