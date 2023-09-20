@@ -1,5 +1,5 @@
 title: Fahrradtouren 2023
-date: 2023-05-05
+date: 2023-12-31
 tags: Karten, Touren
 summary: Unsere geplanten und durchgeführten Fahrradtouren 2023
 
@@ -37,6 +37,9 @@ section Abendtouren
 10. Sarstedt: 2023-07-12, 1d
 12. Wennigsen, Ihme-Ursprung, Lüdersen: 2023-08-16, 1d
 14. Eilenriede, Mittellandkanal, H-Löns-Park: 2023-08-30, 1d
+15. Eilenriede, Mittellandkanal, Ihme: 2023-09-06, 1d
+16. H-Löns-Park, Mittellandkanal, Eilenriede : 2023-09-13, 1d
+17. Gehrderer Berg, Weetzen: 2023-09-20, 1d
 
 ```
 
