@@ -51,6 +51,8 @@ section Halbtagestour
 17. Hufeisensee, Altwarmbüchener See:     2022-10-19, 1d
 ```
 
+Zu den Touren von 2021 [Touren 2021]({filename}/Touren/Fahrradtouren2021.md)
+
 Hier geht es zu unseren [Tourenberichten]({category}Touren)
 Weiterhin gibt es unsere [Mittwochstouren]({filename}/pages/Mittwochstour.md)
 

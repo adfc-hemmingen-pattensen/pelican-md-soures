@@ -9,8 +9,6 @@ und das waren die gefahrenen Routen:
 
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.de/de/map/radtouren-2021-adfc-hemmingen-pattensen_21512?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#11/52.3302/9.7092"></iframe>
 
-
-
 ``` mermaid
 gantt
 dateFormat  YYYY-MM-DD
@@ -37,3 +35,4 @@ Tierpark Kronsberg: milestone, done, 2021-10-13, 1d
 Sarstedt Ahrbergen: milestone, done, 2021-10-20, 1d
 
 ```
+Zu den Touren von 2020 [Touren 2020]({filename}/Touren/Fahrradtouren2020.md)
