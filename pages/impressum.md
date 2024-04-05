@@ -1,8 +1,13 @@
 title: 📄 Impressum
-date: 2024-01-01
+date: 2024-04-05
 authors: Jens Spille
 
 ### Kontakt
+ADFC Hemmingen Pattensen
+
+Gesetzlich vertreten durch den Kreisverbandvorstand,
+verantwortlich Annette Teuber, Vorständin
+weitere Angaben siehe unsere [https://hannover-region.adfc.de/impressum](https://hannover-region.adfc.de/impressum)
 
 Für die Ortsgruppe **Jens Spille**
 
@@ -17,19 +22,16 @@ Für die ADFC Region Hannover **Geschäftsstelle**:
 > 30159 Hannover<br>
 > Tel.: (0511) 16403-12
 
-> Donnerstags 11:00 - 14:00 Uhr und 15:00 - 18:00 Uhr  
-> Samstags 11:00 - 14:00 Uhr (erstmal bis Ende August 2021) - Stand 2.6.2021
-
 ### Sprecherteam
 
-Das Sprecherteam wurde auf der Mitgliederversammlung 2022 am 15\. Februar 2022 für zwei Jahre gewählt.
+Das Sprecherteam wurde auf der Mitgliederversammlung 2022 am 7\. Februar 2024 für zwei Jahre gewählt.
 
 Aufgabe                                   | Name
 ----------------------------------------- | ----------------
 Sprecher                                  | Jens Spille
 Vertreter                                 | Günther Kleinod
 Vertreter                                 | Michael Maier
-Vertreter                                 | Joachim Amtsfeld
+Vertreter                                 | Udo Scherer
 
 ### Mitgliedsschaft
 
