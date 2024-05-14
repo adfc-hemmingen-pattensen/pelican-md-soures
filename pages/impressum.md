@@ -24,7 +24,7 @@ Für die ADFC Region Hannover **Geschäftsstelle**:
 
 ### Sprecherteam
 
-Das Sprecherteam wurde auf der Mitgliederversammlung 2022 am 7\. Februar 2024 für zwei Jahre gewählt.
+Das Sprecherteam wurde auf der Mitgliederversammlung am 7\. Februar 2024 für zwei Jahre gewählt.
 
 Aufgabe                                   | Name
 ----------------------------------------- | ----------------
