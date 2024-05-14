@@ -1,7 +1,21 @@
 title: geplante Touren - Stadtradeln 2024
-date: 2024-05-13 
+date: 2024-05-14 
 authors: Jens Spille
 tags: Touren 
+
+# Die Idee und der Wettbewerb
+
+Beim Stadtradeln sollen sich auch diesmal Teams bilden und während des Aktionszeitraums
+vom 26. Mai bis zum 15. Juni 2024 möglichst viele Kilometer beruflich sowie privat mit dem Fahrrad
+zurücklegen. Im Online-Radelkalender auf [www.stadtradeln.de](https://www.stadtradeln.de/home) können sich die Teams und
+RadlerInnen registrieren und die geradelten Kilometer eintragen. Gesucht wird
+Deutschlands fahrradaktivste Kommune mit den meisten Radkilometern (absolut) sowie mit
+den meisten Radkilometern pro EinwohnerIn (Durchschnittswert).
+
+<!-- Das Team "ADFC Hemmingen" kann direkt unter diesem [Link](https://www.stadtradeln.de/index.php?id=171&L=0&team_preselect=38357) erreicht werden. Unser Team-Captain ist Günther Kleinod. -->
+
+<!-- Das Team "ADFC Pattensen" kommt noch. -->
+
 
 # Start mit Radelfrühstück im Storchennest des SC Hemmingen-Westerfeld
 
