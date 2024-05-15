@@ -21,7 +21,7 @@ den meisten Radkilometern pro EinwohnerIn (Durchschnittswert).
 
 Die Städte Pattensen, Hemmingen und der ADFC starten das Stadtradeln gemeinsam am Sonntag, dem 26. Mai mit einem Radelfrühstück im Storchennest des SC Hemmingen-Westerfeld. 
 
-Wir starten um 09:00 Uhr am Rathaus in Pattensen und treffen dort um 09:40 Uhr auf dem Rathausplatz in Hemmingen auf die Radler aus Hemmingen. Gemeinsam radeln wir dann zum Bolzplatz an der Hohen Bünte zum Storchennest. Dort gibt es Kaffee und belegte Brötchen für alle, gesponsert von der Stadt für 3,- € pro Person, solange der Vorrat reicht. Gegen 11.15 Uhr geht es unter Führung des ADFC weiter zum Hanomag-Gelände, wo um 12.30 Uhr die Sternfahrt des regionalen ADFC zum Maschsee startet. Von 13 bis 18 Uhr feiern wir unter dem Motto „Maschsee Autofrei“ am Rudolf-von-Bennigsen-Ufer mit einem großen Fahrradfest, gutem Essen und Trinken, mit Aktionen und Attraktionen.
+Wir starten um 09:00 Uhr am Rathaus in Pattensen und treffen um 09:40 Uhr auf dem Rathausplatz in Hemmingen auf die Radler aus Hemmingen. Gemeinsam radeln wir dann zum Fußballplatz an der Hohen Bünte zum Storchennest. Dort gibt es Kaffee und belegte Brötchen für alle, gesponsert von der Stadt für 3,- € pro Person, solange der Vorrat reicht. Gegen 11:15 Uhr geht es unter Führung des ADFC weiter zum Hanomag-Gelände, wo um 12:30 Uhr die Sternfahrt des regionalen ADFC zum Maschsee startet. Von 13 bis 18 Uhr feiern wir unter dem Motto „Maschsee Autofrei“ am Rudolf-von-Bennigsen-Ufer mit einem großen Fahrradfest, gutem Essen und Trinken, mit Aktionen und Attraktionen.
 
 ## Weitere geplante Touren
 
