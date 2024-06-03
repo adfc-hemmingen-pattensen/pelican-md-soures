@@ -32,5 +32,6 @@ section Abendtouren
 
 
 ```
+Zum Komoot-Link mit allen Touren in 2024 <https://www.komoot.com/de-de/collection/2075135/-adfc-radtouren-2024>
 
 Zu den Touren von 2023 [Touren 2023]({filename}/Touren/Fahrradtouren2023.md)
