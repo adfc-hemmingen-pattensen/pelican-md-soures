@@ -5,7 +5,7 @@ summary: Unsere geplanten und durchgeführten Fahrradtouren 2024
 
 Unsere geplanten und durchgeführten Fahrradtouren 2024.
 
-Zur Karte mit den Touren geht es [**hier!**](https://umap.openstreetmap.de/de/map/adfc-radtouren-2023_38867?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=undefined&captionBar=false&datalayers=87a640ed-b864-422d-865a-9d5632f98219)
+Zur Karte mit den Touren geht es [**hier!**](https://umap.openstreetmap.de/de/map/adfc-radtouren-2024_59426?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=undefined&captionBar=false&datalayers=6635bcc3-a919-46b8-8dd5-c5b3db418410)
 
 ``` mermaid
 gantt
