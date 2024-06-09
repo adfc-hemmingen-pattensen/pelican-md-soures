@@ -28,8 +28,8 @@ Stadtradeltour:     2024-06-12, 1d
 
 section Abendtouren
 1. Anderter Schleuse, Kronsberg:      2024-05-02, 1d
-2. Benthe, Harenberg, Stichkanal, Ihme: 2024-05-08, 1d
-3. Leinemasch, Ruthe: 2024-05-15, 1d
+2. Wennigsen, Ihme-Ursprung: 2024-05-08, 1d
+3. Benthe, Harenberg, Stichkanal, Ihme: 2024-05-15, 1d
 
 
 ```
