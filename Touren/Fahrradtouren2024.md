@@ -21,8 +21,9 @@ section Stadtradeln
 Stadtradeln 2024:          action, 2024-05-26, 2024-06-15
 Auftaktstour nach Hannover:   2024-05-26, 1d
 Sonntags Radtour 4-Seen-Radtour:   2024-06-02, 1d
-Stadtradeltour in der Umgebung:     2024-06-05, 1d
-Stadtradeltour:     2024-06-09, 1d
+Stadtradeltour Rund um Hemmingen und Pattensen:     2024-06-05, 1d
+Familien-Radtour Hemmingen, Wilkenburg:    2024-06-08, 1d
+Stadtradeltour Marienburg, Osterwald:    2024-06-09, 1d
 Stadtradeltour:     2024-06-12, 1d
 
 section Abendtouren
