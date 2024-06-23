@@ -24,7 +24,7 @@ Sonntags Radtour 4-Seen-Radtour:   2024-06-02, 1d
 Stadtradeltour Rund um Hemmingen und Pattensen:     2024-06-05, 1d
 Familien-Radtour Hemmingen, Wilkenburg:    2024-06-08, 1d
 Stadtradeltour Marienburg, Osterwald:    2024-06-09, 1d
-Stadtradeltour:     2024-06-12, 1d
+Stadtradeltour Julius-Trip-Ring:     2024-06-12, 1d
 
 section Abendtouren
 1. Anderter Schleuse, Kronsberg:      2024-05-02, 1d
