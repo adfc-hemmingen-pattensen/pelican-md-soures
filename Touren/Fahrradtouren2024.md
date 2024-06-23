@@ -19,12 +19,12 @@ section 2024
 
 section Stadtradeln  
 Stadtradeln 2024:          action, 2024-05-26, 2024-06-15
-Auftaktstour nach Hannover:   2024-05-26, 1d
-Sonntags Radtour 4-Seen-Radtour:   2024-06-02, 1d
-Stadtradeltour Rund um Hemmingen und Pattensen:     2024-06-05, 1d
-Familien-Radtour Hemmingen, Wilkenburg:    2024-06-08, 1d
-Stadtradeltour Marienburg, Osterwald:    2024-06-09, 1d
-Stadtradeltour Julius-Trip-Ring:     2024-06-12, 1d
+4. Auftaktstour nach Hannover:   2024-05-26, 1d
+5. Sonntags Radtour 4-Seen-Radtour:   2024-06-02, 1d
+6. Stadtradeltour Rund um Hemmingen und Pattensen:     2024-06-05, 1d
+7. Familien-Radtour Hemmingen, Wilkenburg:    2024-06-08, 1d
+8. Stadtradeltour Marienburg, Osterwald:    2024-06-09, 1d
+9. Stadtradeltour Julius-Trip-Ring:     2024-06-12, 1d
 
 section Abendtouren
 1. Anderter Schleuse, Kronsberg:      2024-05-02, 1d
