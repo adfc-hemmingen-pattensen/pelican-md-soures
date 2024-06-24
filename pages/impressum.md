@@ -45,4 +45,12 @@ Mit fahrradfreundlichen Grüßen, die ADFC Ortsgruppe Hemmingen/Pattensen.
 
 ### Datenschutz
 
-[Datenschutzerklärung](/pdf/Datenschutzerklaerung_ADFC_2018-1-KV.pdf)
+NEU: 
+
+Diese Webseite verwendet einen externen Zähler, um die Anzahl der Webseitenaufrufe zu erfassen. Dafür wird ein Java-Script von einer externe Webseite geladen. Der Server speichert die IP-Adresse des Zugriffs anonymisiert und zeitlich begrenzt in einer LOG-Datei ab. Diese wird regelmäßig unwiderruflich gelöscht.
+
+Um die korrekte Funktionsweise des Zählers zu gewährleisten, speichert der Besucherzähler zudem einen sogenannten Session-Cookie auf dem Computer des Besuchers ab. Dieser wird in der Regel vom Browser gelöscht, sobald er geschlossen wird. In diesem Cookie werden keine persönlichen Informationen gespeichert. Er enthält lediglich die Information der aufgerufenen Domain, sowie einen boolschen Tag (true/false), um den Besucher als bereits gezählt zu markieren.
+
+Es werden auch darüberhinaus keine persönlichen oder personenbezogenen Daten vom Besucherzähler erhoben. Eine Nachverfolgung oder Zuordnung der Zugriffe ist zu keiner Zeit möglich.
+
+[ADFC Datenschutzerklärung](/pdf/Datenschutzerklaerung_ADFC_2018-1-KV.pdf)
