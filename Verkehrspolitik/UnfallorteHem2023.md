@@ -15,7 +15,7 @@ Die nächste Grafik zeigt **Unfallorte mit Fahrradbeteiligung** in Pattensen 202
 
 ![Unfallorte 2023 Pattensen](https://md.darmstadt.ccc.de/uploads/a950a1fc-01dc-4bee-898f-89772e03ff32.png)
 
-Nächste Aktualisierung: *Juli 2025*.
+Nächste Aktualisierung: *Juli 2025*
 
 * * *
 
