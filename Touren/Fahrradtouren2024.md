@@ -34,9 +34,8 @@ section Tages- und Abendtouren
 11. Garbsen, Steinhude, Wunstorf: 2024-07-05, 1d
 12. Leinemasch, Sarstedt: 2024-07-10, 1d
 13. Benthe, Ditterker Holz: 2024-07-24, 1d
-
-
-
+14. Rethen, Bockemer Holz: 2024-07-31, 1d
+15. Giftener See, Jeinsen: 2024-08-08, 1d
 
 ```
 Zum Komoot-Link mit allen Touren in 2024 <https://www.komoot.com/de-de/collection/2075135/-adfc-radtouren-2024>
