@@ -1,4 +1,4 @@
-title: Auszeichnung: Beurteilung B3 alt aus Sicht der Fahrradfahrenden
+title: Beurteilung B3 alt aus Sicht der Fahrradfahrenden
 date: 2024-08-28
 
 Der ADFC Hemmingen Pattensen hat die Radwegeinfrastruktur entlang der Stadtbahnverlängerung auf der Göttinger Landstraße analysiert und auch zahlreiche Hinweise von Radfahrenden erhalten. Dabei gibt es einige Kritikpunkte zur Streckenführung und der Ausführung von Beleuchtungs- und Lichtsignalanlagen.
