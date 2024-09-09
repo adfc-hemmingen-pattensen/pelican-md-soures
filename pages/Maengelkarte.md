@@ -3,7 +3,7 @@ date: 2024-08-03
 
 Wir haben unsere <a href="https://www.gpsvisualizer.com/atlas/map?url=https%3A//docs.google.com/spreadsheets/d/1h1xRbTdH_3BAlOasuZT1_7Gd3XbJNjjncGzfM6eynWs/edit%3Fusp%3Dsharing&mc=1&tl=1&wl=1&tw=30&to=0.5" target="_blank">Mängelkarte</a> sowohl inhaltlich als auch technisch aktualisiert. Technisch nutzen wir nun einen Dienst der Open Source Plattform [GPS Visualizer](https://www.gpsvisualizer.com/), der es uns ermöglicht, die Inhalte jederzeit ohne großen Aufwand zu aktualisieren. 
 
-## > Hier geht es zur <b><a href="https://www.gpsvisualizer.com/atlas/map?url=https%3A//docs.google.com/spreadsheets/d/1h1xRbTdH_3BAlOasuZT1_7Gd3XbJNjjncGzfM6eynWs/edit%3Fusp%3Dsharing&mc=1&tl=1&wl=1&tw=30&to=0.5" target="_blank">Karte</a></b>
+## > Hier geht es zur <b><a href="https://www.gpsvisualizer.com/atlas/map?url=https%3A//docs.google.com/spreadsheets/d/1h1xRbTdH_3BAlOasuZT1_7Gd3XbJNjjncGzfM6eynWs/edit%3Fusp%3Dsharing&mc=1&tl=1&wl=1&tw=30&to=0.5" target="_blank" style="color: #ff0000" >Karte</a></b>
 
 #### Legende:
 
