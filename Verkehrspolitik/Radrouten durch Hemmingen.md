@@ -11,4 +11,3 @@ Wir als ADFC haben Routen erarbeitet und erkundet, die gut zu fahren sind.
 
 Bitte mal ausprobieren. Gerne würden wir Rückmeldungen bekommen.
 
-Übrigens: Die Routen sind auch auf unserer Mängelkarte zu finden. Siehe <https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html>
