@@ -11,7 +11,7 @@ Wir haben unsere <a href="https://www.gpsvisualizer.com/atlas/map?url=https%3A//
 
 #### Bedienung:
 
-![Mängelkarte]({static}/images/GPX_Visualizer.png)
+[![Mängelkarte]({static}/images/GPX_Visualizer.png)](https://www.gpsvisualizer.com/atlas/map?url=https%3A//docs.google.com/spreadsheets/d/1h1xRbTdH_3BAlOasuZT1_7Gd3XbJNjjncGzfM6eynWs/edit%3Fusp%3Dsharing&mc=1&tl=1&wl=1&tw=30&to=0.5){:target="_blank"}
 
 
 # Akute Schadenmeldungen
@@ -24,7 +24,7 @@ Wir haben unsere <a href="https://www.gpsvisualizer.com/atlas/map?url=https%3A//
 
 > Die alte Mängelkarte (2020 bis Aug. 2024) bleibt vorläufig bestehen, da wir nicht die ganze Vergangenheit mitnehmen wollten.
 >
-> [![Mängelkarte]({static}/images/MaengelKarte.png)](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
+> ![Mängelkarte]({static}/images/MaengelKarte.png)
 >
 > Gefährliche Querungen, Unfallschwerpunkte und Mängel auf Rad- und Fußwegen dokumentieren wir auf unserer **Mängelkarte**{: style="color: red"}.[![ ]({static}/images/icon_blank.png)](https://docs.google.com/spreadsheets/d/1h1xRbTdH_3BAlOasuZT1_7Gd3XbJNjjncGzfM6eynWs/edit?usp=sharing)
 >

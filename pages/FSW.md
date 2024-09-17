@@ -17,7 +17,6 @@ Das Team und der ADFC Hemmingen Pattensen wünschen allen Radelnden eine gesunde
 - [Zweirad Fachwerk](https://www.zweirad-fachwerk.de/) - Kapellenweg 6, Hemmingen - Nur nach vorheriger Absprache.
 - Fahrrad-Selbsthilfewerkstatt - Heinrich-Hertz-Straße 23, Hemmingen
 - Servicestation - Rathausplatz 1, Hemmingen
-- Servicestation - EDEKA Ladage, Göttinger Str. 43, Arnum
 
 ### Konto
 
