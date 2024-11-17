@@ -40,6 +40,9 @@ section Tages- und Abendtouren
 17. Eilenriede, Mittellandkanal, Ihme: 2024-08-28, 1d
 18. Empelde, Gehrden: 2024-09-05, 1d
 19. Ihme, Marienwerder, Ahlem: 2024-09-18, 1d
+20. Kronsberg, Mittellandkanal-Schleuse Anderten: 2024-10-16, 1d
+21. Wennigsen, Bredenbeck, Lüdersen: 2024-10-23, 1d
+
 
 ```
 Zum Komoot-Link mit allen Touren in 2024 <https://www.komoot.com/de-de/collection/2075135/-adfc-radtouren-2024>
